@@ -1,0 +1,6 @@
+{
+  "app_title": "标题",
+  "language": "语言",
+  "welcome_message": "欢迎",
+  "days_since_release": "这是第 {{number_of_days}} 天距离上次登录"
+}
